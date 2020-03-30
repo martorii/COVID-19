@@ -1,0 +1,12 @@
+name: COVID-19
+title: COVID-19
+username:
+account: martorii
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2016350
+bundleId: 2944951
+url: https://martorii.shinyapps.io/COVID-19/
+when: 1585590214.05819
+asMultiple: FALSE
+asStatic: FALSE
